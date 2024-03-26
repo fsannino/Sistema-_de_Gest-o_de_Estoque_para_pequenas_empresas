@@ -23,11 +23,15 @@ Armazena dados sobre os fornecedores, incluindo nome, contato e a lista de produ
 - **Gerenciamento de Fornecedores**: Centraliza as informações dos fornecedores, tornando mais fácil o contato e a gestão das compras.
 
 ### Sistema de gerenciamento de banco de dados SQLite.
-• IDE recomendada: IntelliJ IDEA (ou outra IDE de sua preferência, como Visual Studio Code, etc.). Configuração
+• IDE recomendada: IntelliJ IDEA (ou outra IDE de sua preferência, como Visual Studio Code, etc.). 
 
+
+### Configuração
 **Clone o repositório:**
- git clone [url-do-repositorio] 
 
+gitclone https://github.com:fsannino/Sistema_de_Gestao_de_Estoque_para_pequenas_empresas.git
+
+ 
 ### Uso
 
 Este sistema fornece uma interface de linha de comando para gerenciar produtos, categorias, movimentações de estoque e fornecedores. A seguir, você encontrará exemplos detalhados de como utilizar cada funcionalidade.
