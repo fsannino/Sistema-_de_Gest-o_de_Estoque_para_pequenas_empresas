@@ -1,5 +1,5 @@
 # Sistema de Gestão de Estoque para Pequena Empresa
-
+![banner](https://github.com/fsannino/Sistema_de_Gestao_de_Estoque_para_pequenas_empresas/blob/main/86c692bf-349d-407f-ae6a-c98429a3722e_2.jpg)
 ## Descrição do Projeto
 
 Este sistema foi criado para facilitar a gestão de estoque em pequenas empresas. Ele centraliza informações sobre produtos, categorias, movimentações de estoque e fornecedores, permitindo um controle de estoque eficiente e a manutenção de um registro detalhado das operações. Tabelas Implementadas
